@@ -30,12 +30,13 @@ Evtl zus&auml;tzlich noch das Kapitel
 ### An Introduction to Algebraic Geometry and Algebraic Groups
 **Geck - An Introduction to Algebraic Geometry and Algebraic Groups (2003)**  
 **Carter - Simple Groups of Lie Type (1971)**  
+**Humphreys - Introduction to Lie Algebras and Representation Theory (1972)**  
 W&auml;hlt au&szlig;erdem auch ein paar **&Uuml;bungen** aus Geck 1.8 und 2.7 aus, die
 f&uuml;r euer Thema relevant sind.  
 - Kapitel 1:
-  - Regular maps, direct products, and algebraic groups (Geck 1.3)
-  - The tangent space and non-singular points (Geck 1.4)
-  - The Lie algebra of a linear algebraic group (Geck 1.5)
+  - Regular maps, direct products, and algebraic groups (Geck 1.3, CLOS Kapitel 5)
+  - The tangent space and non-singular points (Geck 1.4, Humphreys Kapitel 1, CLOS Kapitel 9.6)
+  - The Lie algebra of a linear algebraic group (Geck 1.5, Humphreys Kapitel 1, Carter Kapitel 3)
   - Groups with a split BN-pair & Weyl groups (Geck 1.6 & Carter Kapitel 2)
   - BN-pairs in symplectic and orthogonal groups (Geck 1.7)
 - Kapitel 2:
