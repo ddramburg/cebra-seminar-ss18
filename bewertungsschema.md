@@ -5,6 +5,7 @@ Folgende Kriterien benutzen wir bei der Benotung als _Leitfaden_.
     - Mathematischer Inhalt
         - Ideen und Konzepte angemessen motiviert und erklärt?
         - Definitionen und Sätze formal korrekt und präzise formuliert?
+        - Eigene Beispiele vorgestellt?
         - Beziehung zu anderen Vorträgen aufgezeigt (falls möglich)?
         - Zusammenhänge innerhalb des Vortrags dargestellt?
         - Auch Beweis-Ideen statt technischem Klein-Klein präsentiert?
